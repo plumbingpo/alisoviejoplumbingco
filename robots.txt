@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alisoviejoplumbingco.com/sitemap.xml
